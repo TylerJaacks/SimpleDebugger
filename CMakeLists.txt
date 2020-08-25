@@ -3,4 +3,4 @@ project(SimpleDebugger C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(SimpleDebugger main.c)
+add_executable(SimpleDebugger debugger.c)
